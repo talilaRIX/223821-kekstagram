@@ -1,6 +1,6 @@
 # Личный проект «Кекстаграм» [![Build status][travis-image]][travis-url]
 
-* Студент: [Tatiana Karlin](https://up.htmlacademy.ru/javascript/14/user/223821).
+* Студент: [Tatiana Karlin.
 * Наставник: `Bez nastavnika`.
 
 ---
